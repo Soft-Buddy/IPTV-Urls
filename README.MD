@@ -207,6 +207,3 @@
 | Yemen                         | [https://iptv-org.github.io/iptv/countries/ye.m3u](https://iptv-org.github.io/iptv/countries/ye.m3u) |
 | Zambia                        | [https://iptv-org.github.io/iptv/countries/zm.m3u](https://iptv-org.github.io/iptv/countries/zm.m3u) |
 | Zimbabwe                      | [https://iptv-org.github.io/iptv/countries/zw.m3u](https://iptv-org.github.io/iptv/countries/zw.m3u) |
-
-# Extas
-Jio IPTV for Indians : [https://github.com/Soft-Buddy/IPTV-Urls/raw/main/Jiocinema.m3u](https://github.com/Soft-Buddy/IPTV-Urls/raw/main/Jiocinema.m3u)
